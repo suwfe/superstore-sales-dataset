@@ -1,1 +1,2 @@
-# superstore-sales-dataset
+# E-commerce Sales Analysis (SQL)
+# 
