@@ -35,3 +35,27 @@ South: ~389k
 
 Insight:
 West and East dominate revenue, while South underperforms.
+
+4. Customer Analysis
+   
+Top Customers by Spend
+
+Highest spender: ~25k
+
+Significant drop-off after top few customers
+
+Insight:
+Revenue is concentrated among a small group of high-value customers.
+
+Customer Purchase Behavior
+
+Most frequent customer: 36 orders (~6k spent)
+
+High-frequency customers are not top spenders
+
+Insight:
+Two distinct customer types:
+
+High-frequency, lower-value
+
+Low-frequency, high-value
