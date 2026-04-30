@@ -97,3 +97,5 @@ SELECT
 FROM orders
 GROUP BY "Category"
 ORDER BY revenue DESC;
+---
+# Conclusion
