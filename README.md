@@ -59,6 +59,7 @@ Two distinct customer types:
 High-frequency, lower-value
 
 Low-frequency, high-value
+
 5. Business Metrics
 
 Avg orders per customer: ~12
