@@ -76,6 +76,8 @@ ORDER BY and ranking,
 Date transformation,
 Customer segmentation,
 Multi-metric analysis
+## SQL Queries
+See full queries in `queries.sql`
 # Conclusion
 
 This analysis identifies:
