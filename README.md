@@ -81,4 +81,11 @@ Business relies on repeat purchasing rather than large one-time transactions.
 - Customer segmentation  
 - Multi-metric analysis  
 
----
+# Conclusion
+This analysis identifies:
+
+Key revenue drivers (Technology, West/East regions)
+Customer segmentation patterns
+A repeat-purchase business model
+
+These insights can inform marketing, retention, and pricing strategies.
