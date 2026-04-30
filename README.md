@@ -59,7 +59,8 @@ Two distinct customer types:
 High-frequency, lower-value
 
 Low-frequency, high-value
-# 5. Business Metrics
+5. Business Metrics
+
 Avg orders per customer: ~12
 
 Avg revenue per customer: ~2850
@@ -68,3 +69,9 @@ Avg order value: ~230
 
 Insight:
 Business relies on repeat purchasing rather than large one-time transactions.
+# SQL Skills Demonstrated
+GROUP BY aggregation,
+ORDER BY and ranking,
+Date transformation,
+Customer segmentation,
+Multi-metric analysis
