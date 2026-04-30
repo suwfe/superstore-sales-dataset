@@ -97,13 +97,3 @@ SELECT
 FROM orders
 GROUP BY "Category"
 ORDER BY revenue DESC;
-
-## Conclusion
-This analysis identifies:
-
-Key revenue drivers (Technology, West/East regions)
-Customer segmentation patterns
-A repeat-purchase business model
-
-These insights can inform marketing, retention, and pricing strategies.
-
