@@ -81,7 +81,24 @@ Business relies on repeat purchasing rather than large one-time transactions.
 - Customer segmentation  
 - Multi-metric analysis  
 
-# Conclusion
+---
+
+## 💻 SQL Queries
+
+Full queries available here:  
+👉 [queries.sql](./queries.sql)
+
+Example:
+
+```sql
+SELECT
+    "Category",
+    SUM("Sales") AS revenue
+FROM orders
+GROUP BY "Category"
+ORDER BY revenue DESC;
+
+## Conclusion
 This analysis identifies:
 
 Key revenue drivers (Technology, West/East regions)
