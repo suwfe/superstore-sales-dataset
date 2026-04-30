@@ -106,3 +106,4 @@ Customer segmentation patterns
 A repeat-purchase business model
 
 These insights can inform marketing, retention, and pricing strategies.
+
