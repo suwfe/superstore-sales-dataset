@@ -76,3 +76,14 @@ ORDER BY and ranking,
 Date transformation,
 Customer segmentation,
 Multi-metric analysis
+# Conclusion
+
+This analysis identifies:
+
+Key revenue drivers (Technology, West/East regions)
+
+Customer segmentation patterns
+
+A repeat-purchase business model
+
+These insights could inform marketing, retention, and pricing strategies.
